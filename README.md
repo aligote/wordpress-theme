@@ -1,3 +1,3 @@
 # Wordpress Theme
 
-A basic Wordpress starter code base to jump start main objectives for your website. All the files and code are placed in wp-content > themes > demo folder.
+A basic Wordpress theme starter code base to jump start for your website theme. Main theme files and code are placed in wp-content > themes > demo folder.
