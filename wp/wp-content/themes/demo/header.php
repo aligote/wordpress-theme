@@ -11,9 +11,7 @@
 
     <!-- Important stuff for SEO, don't neglect. (And don't dupicate values across your site!) -->
     <title></title>
-    <meta name="keywords" content="" />
     <meta name="author" content="" />
-    <meta name="description" content="" />
 
     <!-- Don't forget to set your site up: http://google.com/webmasters -->
     <meta name="google-site-verification" content="" />
@@ -34,23 +32,6 @@
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
-
-    <!-- Twitter: see https://dev.twitter.com/docs/cards/types/summary-card for details -->
-    <meta name="twitter:card" content="">
-    <meta name="twitter:site" content="">
-    <meta name="twitter:title" content="">
-    <meta name="twitter:description" content="">
-    <meta name="twitter:url" content="">
-
-    <!-- Facebook (and some others) use the Open Graph protocol: see http://ogp.me/ for details -->
-    <meta property="og:title" content="" />
-    <meta property="og:description" content="" />
-    <meta property="og:url" content="" />
-    <meta property="og:image" content="" />
-    <meta property="og:type" content="website">
-    <meta property="og:image:width" content="">
-    <meta property="og:image:height" content="">
-    <meta property="og:description" content=""> 
 
     <!-- To avoid any format picker app -->
     <meta name="format-detection" content="telephone=no">
