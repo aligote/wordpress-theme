@@ -13,6 +13,7 @@ Freedom is an important part of developing WordPress themes. If you plan to dist
 ### Test Data
 
 [Theme Unit Test](https://codex.wordpress.org/Theme_Unit_Test)
+
 [Theme Test Data](https://themetest.wordpress.com/)
 
 ## Resource
