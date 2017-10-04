@@ -11,8 +11,8 @@ index.php and style.css are the most required files for a wordpress theme.
 Freedom is an important part of developing WordPress themes. If you plan to distribute your theme, it is a good idea to license it fully under the GPL, so others can enjoy the same freedoms that you did when creating it.
 
 ### Test Data
-[Theme Unit Test](https://codex.wordpress.org/Theme_Unit_Test)
-[Theme Test Data](https://themetest.wordpress.com/)
+- [Theme Unit Test](https://codex.wordpress.org/Theme_Unit_Test)
+- [Theme Test Data](https://themetest.wordpress.com/)
 
 ### Plugins
 - [Debug Bar](https://wordpress.org/plugins/debug-bar/) - adds an admin bar to your WordPress admin providing a central location for debugging.
