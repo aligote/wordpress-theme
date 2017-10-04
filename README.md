@@ -22,6 +22,8 @@ Freedom is an important part of developing WordPress themes. If you plan to dist
 - [Developer](https://wordpress.org/plugins/developer/) - helps optimize your development environment by allowing easy installation of tools and plugins that help in troubleshooting and ensuring code quality.
 - [Theme-Check](https://wordpress.org/plugins/theme-check/) - tests your theme for compliance with the latest WordPress standards and practices.
 
+### [WordPress Coding Standards](https://make.wordpress.org/core/handbook/best-practices/coding-standards/)
+The best way to understand coding standards is to review the default Twenty themes. Underscores is another well-coded and standardize theme. A more detailed overview is available on Underscores’ [website](http://underscores.me/).
 
 ## Resource
 
