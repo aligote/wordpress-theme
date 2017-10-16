@@ -25,6 +25,24 @@ Freedom is an important part of developing WordPress themes. If you plan to dist
 ### [WordPress Coding Standards](https://make.wordpress.org/core/handbook/best-practices/coding-standards/)
 The best way to understand coding standards is to review the default Twenty themes. Underscores is another well-coded and standardize theme. A more detailed overview is available on Underscores’ [website](http://underscores.me/).
 
+### Common WordPress template files
+Below is a list of some basic theme templates and files recognized by WordPress.
+
+- index.php
+The main template file. It is required in all themes.
+
+- style.css
+The main stylesheet. It is required in all themes and contains the information header for your theme.
+
+- rtl.css
+The right-to-left stylesheet is included automatically if the website language’s text direction is right-to-left.
+
+- comments.php
+The comments template.
+
+- front-page.php
+The front page template is always used as the site front page if it exists, regardless of what settings on Admin > Settings > Reading.
+
 ## Resource
 
 Official WordPress Theme Guide [Goto](https://developer.wordpress.org/themes/)
