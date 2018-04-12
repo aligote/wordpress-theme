@@ -103,7 +103,7 @@ The 404 template is used when WordPress cannot find a post, page, or other conte
 
 ## Resource
 
-Official WordPress Theme Guide [Goto](https://developer.wordpress.org/themes/)
+For Official WordPress Theme Guide [Goto](https://developer.wordpress.org/themes/)
 
 Chapters links are as follows:
 
